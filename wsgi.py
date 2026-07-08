@@ -3,7 +3,7 @@ import os
 import sys
 
 # Import the app
-import deepseek_python_20260708_112ed6 as app_module
+import app as app_module
 
 app = app_module.app
 socketio = app_module.socketio
